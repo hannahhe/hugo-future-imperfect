@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          ="A memoir of documented projects and experiences by a student, ballet dancer, roboticist and creator: Hannah He"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Future Imperfect"
   # Sets where "View More Posts" links
